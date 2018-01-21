@@ -1,6 +1,7 @@
 # Clawbot
 
 ##Description:
+
 A C++ program That uses TCP/IP to interface with a robot and control it romotely. The robot can move in all directions as well as raise and lower its arm and open and close its claw.
 The program sends commands to the robot and recieves telemetry data from it to determine whether the commands are being recieved.
 
